@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Scraper runtime files
+fitgirl_checkpoint.json
+fitgirl_failed_pages.csv
+
+# Local test/output files
+test_*.csv
